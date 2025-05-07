@@ -1,6 +1,10 @@
 ## Photo & Prompt to 3D Converter README 
 
 ### Overview
+
+https://github.com/user-attachments/assets/1c10e682-ee4c-4b4a-95ff-343a93ba5e76
+
+
 This tool converts either:  
 
 1. **Photo of an object** → segments the foreground → generates a **gray cube** mesh.  
