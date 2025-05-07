@@ -1,7 +1,8 @@
 ## Photo & Prompt to 3D Converter README 
 
 ### Overview
-This tool converts either:  
+This tool converts either:  ![image1](https://github.com/user-attachments/assets/476bc674-ed35-4b96-8831-754f8d3ee0b7)
+
 1. **Photo of an object** → segments the foreground → generates a **gray cube** mesh.  
 2. **Free-form text prompt** → uses LLaMA3 to pick **both** a primitive shape (cube, sphere, cylinder) **and** a color (red, green, blue, yellow, white), then builds that colored mesh.
 
